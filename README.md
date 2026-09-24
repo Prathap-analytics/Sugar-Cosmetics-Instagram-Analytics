@@ -6,7 +6,7 @@ An end-to-end data analytics project analyzing **50,000 Instagram posts** (April
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Images/dashboard_preview.png)
+![Dashboard Preview]([Images/dashboard_preview.png](https://github.com/Prathap-analytics/Sugar-Cosmetics-Instagram-Analytics/blob/main/2026-09-24%2020%2043%2016.png))
 
 ---
 
